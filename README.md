@@ -41,6 +41,10 @@ The Power BI dashboard allows users to:
 
 The dashboard is designed for non-technical hospital administrators to easily interpret and use.
 
+## Dashboard Screenshot
+![Hospital Dashboard](<img width="1731" height="749" alt="dashboard" src="https://github.com/user-attachments/assets/c9c76478-4879-4132-a759-532c9f6b72c2" />
+)
+
 ## Key Insights
 - Emergency cases account for a significant portion of total admissions.
 - Doctor utilization is balanced across most departments.
